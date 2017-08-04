@@ -1,0 +1,2 @@
+# smartmirror
+Magicmirror selbst gebaut
